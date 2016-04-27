@@ -1,0 +1,12 @@
+C:\Users\cmax\Desktop\master\逆命\bin\Release\TwistedBuddy.exe.config
+C:\Users\cmax\Desktop\master\逆命\bin\Release\TwistedBuddy.exe
+C:\Users\cmax\Desktop\master\逆命\bin\Release\TwistedBuddy.pdb
+C:\Users\cmax\Desktop\master\逆命\bin\Release\EloBuddy.dll
+C:\Users\cmax\Desktop\master\逆命\bin\Release\EloBuddy.SDK.dll
+C:\Users\cmax\Desktop\master\逆命\bin\Release\SharpDX.dll
+C:\Users\cmax\Desktop\master\逆命\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\cmax\Desktop\master\逆命\bin\Release\Newtonsoft.Json.dll
+C:\Users\cmax\Desktop\master\逆命\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\cmax\Desktop\master\逆命\obj\Release\逆命.csprojResolveAssemblyReference.cache
+C:\Users\cmax\Desktop\master\逆命\obj\Release\TwistedBuddy.exe
+C:\Users\cmax\Desktop\master\逆命\obj\Release\TwistedBuddy.pdb
