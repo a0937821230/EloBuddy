@@ -12,7 +12,7 @@
         public static void Main(string[] args)
         {
             var addon =
-                new Addon("CowAwareness偵測").Add(new Clock())
+                new Addon("偵測").Add(new Clock())
                     .Add(new Clone())
                     .Add(new TowerRange())
                     .Add(new Gank())
