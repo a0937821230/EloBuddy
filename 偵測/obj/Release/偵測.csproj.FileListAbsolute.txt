@@ -12,17 +12,3 @@ C:\Users\cmax\Desktop\master\偵測\obj\Release\CowAwareness.Resources.resources
 C:\Users\cmax\Desktop\master\偵測\obj\Release\偵測.csproj.GenerateResource.Cache
 C:\Users\cmax\Desktop\master\偵測\obj\Release\CowAwareness.exe
 C:\Users\cmax\Desktop\master\偵測\obj\Release\CowAwareness.pdb
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\CowAwareness.exe.config
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\CowAwareness.exe
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\CowAwareness.pdb
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\EloBuddy.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\EloBuddy.SDK.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\SharpDX.Direct3D9.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\SharpDX.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\Newtonsoft.Json.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\bin\Release\EloBuddy.Sandbox.dll
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\obj\Release\偵測.csprojResolveAssemblyReference.cache
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\obj\Release\CowAwareness.Resources.resources
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\obj\Release\偵測.csproj.GenerateResource.Cache
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\obj\Release\CowAwareness.exe
-C:\Users\cmax\Desktop\master\EloBuddy\偵測\obj\Release\CowAwareness.pdb
