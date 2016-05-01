@@ -36,7 +36,7 @@
         {
             get
             {
-                return "Ward Tracker";
+                return "眼位追蹤";
             }
         }
 
@@ -65,8 +65,8 @@
 
         protected override void Initialize()
         {
-            this.Menu.Add("timer", new CheckBox("繪畫剩餘時間"));
-            this.Menu.Add("range", new KeyBind("繪畫眼睛視野範圍", false, KeyBind.BindTypes.HoldActive, 'Z'));
+            this.Menu.Add("timer", new CheckBox("顯示剩餘時間"));
+            this.Menu.Add("range", new KeyBind("顯示眼睛視野範圍", false, KeyBind.BindTypes.HoldActive, 'Z'));
             this.text = new Text(string.Empty, new Font(FontFamily.GenericSansSerif, 11f, FontStyle.Bold));
         }
 

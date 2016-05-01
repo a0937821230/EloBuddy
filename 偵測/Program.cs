@@ -27,8 +27,8 @@
                     menu.AddLabel("1.0.2");
 
                     menu.AddSeparator();
-                    menu.AddGroupLabel("Todo List");
-                    menu.AddLabel("- try to fix cooldown for some special abilities");
+                    menu.AddGroupLabel("代辦事項");
+                    menu.AddLabel("- 嘗試修復 某些特殊角色 冷卻時間顯示");
 
                     menu.AddSeparator();
                     menu.AddGroupLabel("Credits");
@@ -38,8 +38,8 @@
                     menu.AddLabel("- Kurttuu for the thread design");
                     menu.AddLabel("- MrArticuno's Tower Range code (with small improvements by me)");
                     menu.AddLabel("- Addon by strcow from elobuddy.net");
-                    menu.AddLabel("https://www.elobuddy.net/topic/8526-cowawareness-utility-aio-my-way-always-updated");
-               		 menu.AddLabel("繁體阿~!");
+                    menu.AddLabel("作者EB網站：https://www.elobuddy.net/topic/8526-cowawareness-utility-aio-my-way-always-updated");
+               		
                 };
         }
 

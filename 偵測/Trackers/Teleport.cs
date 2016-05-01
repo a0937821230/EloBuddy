@@ -27,7 +27,7 @@
         {
             get
             {
-                return "Recall Tracker";
+                return "回城追蹤";
             }
         }
 
@@ -52,7 +52,7 @@
 
         protected override void Initialize()
         {
-            this.Menu.AddLabel("偵測回程和傳送");
+            this.Menu.AddLabel("偵測回城和傳送");
 
             this.Menu.AddSeparator();
 
@@ -63,7 +63,7 @@
 
             this.Menu.Add("allies", new CheckBox("偵測隊友", false));
             this.Menu.Add("self", new CheckBox("偵測自己", false));
-            this.Menu.Add("enemies", new CheckBox("偵測敵人s", false));
+            this.Menu.Add("enemies", new CheckBox("偵測敵人", false));
 
             this.text = new Text(string.Empty, new Font(FontFamily.GenericSansSerif, 10f, FontStyle.Bold));
         }

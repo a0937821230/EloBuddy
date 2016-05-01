@@ -33,7 +33,7 @@
         {
             get
             {
-                return "Gank";
+                return "打野Gank";
             }
         }
 
@@ -95,12 +95,12 @@
 
         protected override void Initialize()
         {
-            this.Menu.AddLabel("偵測敵方或隊友的Gank");
+            this.Menu.AddLabel("偵測敵方或隊友的打野");
 
             this.Menu.Add("range", new Slider("範圍", 3000, 1100, 5000));
             this.Menu.Add("cooldown", new Slider("CD", 10, 0, 30));
             this.Menu.Add("duration", new Slider("持續時間", 10, 0, 30));
-            this.Menu.Add("ping", new CheckBox("亮燈(本地)"));
+            this.Menu.Add("ping", new CheckBox("打燈(本地)"));
 
             foreach (var hero in EntityManager.Heroes.AllHeroes.Where(h => !h.IsMe))
             {

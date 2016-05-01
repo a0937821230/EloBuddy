@@ -12,7 +12,7 @@
         {
             get
             {
-                return "Disable EB Watermark";
+                return "停用 Elobuddy 浮水印";
             }
         }
 

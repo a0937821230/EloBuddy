@@ -40,7 +40,7 @@
         {
             get
             {
-                return "Cooldowns";
+                return "CD冷卻";
             }
         }
 
@@ -105,9 +105,8 @@
                 new Sprite(TextureLoader.BitmapToTexture(Resources.s5_summonersmiteplayerganker)));
 
             this.Menu.AddSeparator(30);
-            this.Menu.AddLabel("已知問題:");
-            this.Menu.AddLabel("不能偵測一些可以主動減技能CD");
-            this.Menu.AddLabel("例如菲歐拉Q,刀妹Q");
+            this.Menu.AddLabel("目前無法偵測某些角色的主動技能");
+            this.Menu.AddLabel("例如：菲歐拉 Q 、 刀妹 Q 、伊澤 Q");
 
             Drawing.OnEndScene += this.Drawing_OnEndScene;
         }

@@ -18,7 +18,7 @@
         {
             get
             {
-                return "Tower Range";
+                return "防禦塔範圍";
             }
         }
 
@@ -42,7 +42,7 @@
 
         protected override void Initialize()
         {
-            this.Menu.AddLabel("繪畫敵人防御塔的範圍");
+            this.Menu.AddLabel("顯示敵人防御塔的範圍");
         }
 
         private void Drawing_OnDraw(EventArgs args)

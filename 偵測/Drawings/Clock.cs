@@ -16,7 +16,7 @@
         {
             get
             {
-                return "Clock";
+                return "時間";
             }
         }
 
@@ -40,9 +40,9 @@
 
         protected override void Initialize()
         {
-            this.Menu.AddLabel("繪畫系統時間在遊戲畫面中");
-            this.Menu.Add("topOffset", new Slider("Y", 75, 0, 500));
-            this.Menu.Add("rightOffset", new Slider("X", 100, 0, 500));
+            this.Menu.AddLabel("顯示 時間 在遊戲畫面中 ");
+            this.Menu.Add("topOffset", new Slider("移動到 Y {0}", 75, 0, 500));
+            this.Menu.Add("rightOffset", new Slider("移動到 X {0}", 100, 0, 500));
         }
 
         private void Drawing_OnDraw(EventArgs args)

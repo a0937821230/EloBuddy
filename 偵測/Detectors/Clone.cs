@@ -30,7 +30,7 @@
         {
             get
             {
-                return "Clone Revealer";
+                return "偵測分身";
             }
         }
 
@@ -54,11 +54,9 @@
 
         protected override void Initialize()
         {
-            this.Menu.AddLabel("偵測分身(在真身下面有一個圓圈), 啟用在:");
-            this.Menu.AddLabel("- 小丑");
-            this.Menu.AddLabel("- 勒布朗");
-            this.Menu.AddLabel("- 悟空");
-            this.Menu.AddLabel("- 約瑞科");
+            this.Menu.AddLabel("偵測分身(在本尊下面有一個圓圈), 應用在:");
+            this.Menu.AddLabel("小丑、勒布朗、悟空、約瑞科");
+
 
             this.color = Color.Magenta;
             this.heroes.AddRange(
