@@ -1,0 +1,15 @@
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\AutoBuddy.exe.config
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\AutoBuddy.exe
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\AutoBuddy.pdb
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\EloBuddy.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\EloBuddy.SDK.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\Newtonsoft.Json.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\SharpDX.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\bin\Release\SharpDX.XInput.dll
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\obj\Release\自動掛機AutoBuddy_BETA修正版.csprojResolveAssemblyReference.cache
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\obj\Release\AutoBuddy.Properties.Resources.resources
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\obj\Release\自動掛機AutoBuddy_BETA修正版.csproj.GenerateResource.Cache
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\obj\Release\AutoBuddy.exe
+C:\Users\Weschler\Desktop\ELOAUTO\EloBuddy-master\自動掛機AutoBuddy_BETA修正版\自動掛機AutoBuddy_BETA修正版\obj\Release\AutoBuddy.pdb
